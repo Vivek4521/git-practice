@@ -1,1 +1,2 @@
 i do understand well now
+keep working on linux terminal for better learning purpose of git
